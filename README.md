@@ -1,2 +1,3 @@
-# Supply_Chain_Forecasting
-Introduction to Forecasting
+## Introduction to Forecasting
+
+This repository shows how I implemented different forecasting models on datasets.
