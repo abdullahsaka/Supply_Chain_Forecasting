@@ -2,7 +2,9 @@
 
 This repository shows how I implemented different forecasting models on datasets.
 
-Walmart_Forecasting: I implemented 4 statistical forecasting methods with tuned optimization on Walmart dataset which was published in 2014.
+Walmart_Forecasting: 
+
+I implemented 4 statistical forecasting methods with tuned optimization on Walmart dataset which was published in 2014.
 
 1. Moving Average
 2. Simple Exponential Smoothing
