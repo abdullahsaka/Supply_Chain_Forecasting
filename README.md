@@ -6,7 +6,7 @@ I would like to show how to implement forecasting models starting from scratch.
 
 # ML_Forecast:
 
-I run many machine learning algorithms (Linear Regression, Random Forest, Gradient Boosting) on time series dataset.
+I ran many machine learning algorithms (Linear Regression, Random Forest, Gradient Boosting) on time series dataset.
 
 # Walmart_Forecasting: 
 
