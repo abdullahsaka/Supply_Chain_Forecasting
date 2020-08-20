@@ -3,6 +3,10 @@ This repository shows how I implemented different forecasting models on datasets
 # Statistical_Forecast: 
 
 I would like to show how to implement forecasting models starting from scratch.
+1. Moving Average
+2. Simple Exponential Smoothing
+3. Double Exponential Smoothing with damped trend
+4. Triple Exponential Smoothing
 
 # ML_Forecast:
 
