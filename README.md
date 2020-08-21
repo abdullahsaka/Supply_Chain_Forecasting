@@ -29,4 +29,4 @@ I implemented 4 statistical forecasting methods with tuned optimization on Walma
 3. Double Exponential Smoothing
 4. Multiplicative Triple Exponential Smoothing with damped trend
 
-The link of the dataset: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
+The link of the dataset: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting or train.csv in the repository
