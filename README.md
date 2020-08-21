@@ -15,6 +15,7 @@ I would like to show how to implement forecasting models starting from scratch a
 I ran many machine learning algorithms (Linear Regression, Random Forest, Extremely Randomized Trees, AdaBoost and Extreme Gradient Boosting) on time series dataset.
 
 ML_Forecast_v1.0 - Linear Regression and Regression Trees
+
 ML_Forecast_v2.0 - Extremely Randomized Trees and Feature Optimmization
 
 # Walmart_Forecasting: 
