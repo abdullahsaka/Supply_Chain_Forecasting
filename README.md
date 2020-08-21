@@ -14,11 +14,11 @@ I would like to show how to implement forecasting models starting from scratch a
 
 I ran many machine learning algorithms (Linear Regression, Random Forest, Extremely Randomized Trees, AdaBoost and Extreme Gradient Boosting) on time series dataset.
 
-Required dataset: norway_car_sales.csv in the repository
+Required dataset: 'norway_car_sales.csv' in the repository
 
 ML_Forecast_v1.0 - Linear Regression and Regression Trees
 
-ML_Forecast_v2.0 - Extremely Randomized Trees and Feature Optimmization
+ML_Forecast_v2.0 - Extremely Randomized Trees and Feature Optimization
 
 ML_Forecast_v3.0 - Adaptive Boosting (adaBoost)
 
@@ -31,4 +31,4 @@ I implemented 4 statistical forecasting methods with tuned optimization on Walma
 3. Double Exponential Smoothing
 4. Multiplicative Triple Exponential Smoothing with damped trend
 
-The link of the dataset: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting or train.csv in the repository
+The link of the dataset: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting or 'train.csv' in the repository
