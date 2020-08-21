@@ -20,6 +20,8 @@ ML_Forecast_v1.0 - Linear Regression and Regression Trees
 
 ML_Forecast_v2.0 - Extremely Randomized Trees and Feature Optimmization
 
+ML_Forecast_v3.0 - Adaptive Boosting (adaBoost)
+
 # Walmart_Forecasting: 
 
 I implemented 4 statistical forecasting methods with tuned optimization on Walmart dataset which was published in 2014 and calculated forecasting accuracy for all SKU's.
