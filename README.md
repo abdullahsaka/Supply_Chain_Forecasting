@@ -22,7 +22,7 @@ ML_Forecast_v2.0 - Extremely Randomized Trees and Feature Optimmization
 
 # Walmart_Forecasting: 
 
-I implemented 4 statistical forecasting methods with tuned optimization on Walmart dataset which was published in 2014.
+I implemented 4 statistical forecasting methods with tuned optimization on Walmart dataset which was published in 2014 and calculated forecasting accuracy for all SKU's.
 
 1. Moving Average
 2. Simple Exponential Smoothing
