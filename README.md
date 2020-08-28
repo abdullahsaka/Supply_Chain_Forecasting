@@ -1,5 +1,7 @@
 This repository shows how I implemented different forecasting models on datasets.
 
+!! "One Hot Label Encoding.py" and "Preparation with External Drivers.py" files indicates how I modified the dataset by adding external drivers or handling categorical variables. They are independent of statistical and machine learning files.
+
 # Statistical_Forecast: 
 
 I would like to show how to implement forecasting models starting from scratch as follows of:
