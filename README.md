@@ -24,7 +24,7 @@ ML_Forecast_v1.0 - Linear Regression and Regression Trees
 
 ML_Forecast_v2.0 - Extremely Randomized Trees and Feature Optimization
 
-ML_Forecast_v3.0 - Adaptive Boosting (adaBoost)
+ML_Forecast_v3.0 - Adaptive Boosting (adaBoost) and xgBoost (Extreme Gradient Boosting)
 
 # Walmart_Forecasting: 
 
