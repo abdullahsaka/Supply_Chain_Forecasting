@@ -4,6 +4,8 @@ This repository shows how I implemented different forecasting models on datasets
 
 !! For "Preparation with External Drivers.py" file, you have to use both 'norway_car_sales' and 'GDP.csv'.
 
+!! 'Clustering.csv' file is about clustering with seasonality factors. The result gives information about which periods are in the same cluster. (behave similar). Only use 'norway_car_sales.csv'
+
 # Statistical_Forecast: 
 
 I would like to show how to implement forecasting models starting from scratch as follows of:
