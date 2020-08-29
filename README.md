@@ -1,6 +1,6 @@
 This repository shows how I implemented different forecasting models on datasets.
 
-!! "One Hot Label Encoding.py" and "Preparation with External Drivers.py" files indicates how I modified the dataset by adding external drivers or handling categorical variables. They are independent of statistical and machine learning files.
+!! "One Hot Label Encoding.py" and "Preparation with External Drivers.py" in Preprocessing indicates how I modified the dataset by adding external drivers or handling categorical variables. They are independent of statistical and machine learning files.
 
 !! For "Preparation with External Drivers.py" file, you have to use both 'norway_car_sales' and 'GDP.csv'.
 
